@@ -1,0 +1,33 @@
+.LoginPage {
+    background-color: rgb(152, 230, 255);
+    background-image: url('/img/background.jpg');
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+.LoginForm {
+    padding: 15px;
+    padding-top: 50px;
+}
+
+.loginTxt {
+    color: #fff !important;
+    background: #031826;
+    padding: 7px 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration:none;
+}
+
+.Title {
+    font-weight: bolder;
+    color: #fff;
+    background: #031826;
+}

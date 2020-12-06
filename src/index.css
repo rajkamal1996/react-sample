@@ -1,0 +1,54 @@
+html, body, #root, #root>div {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 100%;
+}
+
+
+.text-left {
+  text-align: left;
+  padding: 15px;
+}
+
+p {
+  margin-bottom: 2px !important;
+  font-size: 14px;
+}
+
+h5 {
+  font-size: 17px !important;
+  font-weight: bolder !important;
+}
+
+.searchContainer {
+  min-height: 350px;
+  padding-top: 100px;
+  background: url();
+}
+
+.searchIP {
+  width: 315px;
+  padding: 5px;
+  margin-left: 15px;
+  font-size: 13px;
+  border-radius: 8px;
+}
+
+.searchDiv {
+      background: #b4f4ce;
+      padding-top: 30px;
+      padding-bottom: 30px;
+}
+
+
+.searchBtn, .resetBtn {
+  margin-left: 10px;
+    border-radius: 15px;
+    padding: 5px 10px;
+    background: palegreen;
+}
